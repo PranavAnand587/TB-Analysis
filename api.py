@@ -1,8 +1,7 @@
 import requests
 import json
 
-API_KEY = "gAAAAABp6KnuCASI6UpYXxLzm8RAtrKxKLXarivwaPgrvKBF4NqH8KtROpAPkKhuHbJuR2jkTiS4eHm1owjU-TZ0a1cu1XGCbjtPqlWuCPFHIc1gzwjm76Vc7InFiN9Q4B-WLQwNWYmGyWy2DcIuMgSL-4M-yV2AZUkyckMLeaQKjwqmfeH7UBhYIvbU1iyN1v0QB47RUcbhNHzqmPDhPznS1Y7YjE99Cw=="
-
+API_KEY = "gAAAAABp6K7Xjz_rC8LZBPoKTVurCoymBzgwi-Rm7xqd57J9U33Pb9GpSUaQCeH05bmNnn_eipTajcBMH4RFziV9yVbjPCt7-CO8J_iTSEHE1LhXho8hi63FI9-GGhwXh7XRc2F_UHF3S9Qe-6tD_SVgcsEMVY7l83rfR5mJ3AjJ3e2cHCXjpJ6BocYN8YltFTArx1l2IYGCvnK4gXwJ3wprTy8FVUNdXQ=="
 """
 NDAP Data Collection Script — DSM Project
 ==========================================
