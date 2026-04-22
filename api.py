@@ -44,8 +44,6 @@ OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 # categorical dimensions beyond the standard location/time dims.
 # ---------------------------------------------------------------------------
 
-# Standard dims present in almost every dataset
-BASE_DIMS = ["Country", "StateName", "StateCode", "DistrictName", "DistrictCode", "Year"]
 
 DATASETS = [
     # ── TB Report ──────────────────────────────────────────────────────────
@@ -53,7 +51,7 @@ DATASETS = [
         "source_code": 1139,
         "name": "TB_Notification",
         "indicators": ["I1139_5", "I1139_6", "I1139_7", "I1139_8", "I1139_9", "I1139_10"],
-        "dims": ["D1139_4"],   # Sector (Public/Private/Total)
+        "dims": ["Country", "StateName", "StateCode", "DistrictName", "DistrictCode", "Year","D1139_4"],   # Sector (Public/Private/Total)
     },
     {
         "source_code": 1188,
