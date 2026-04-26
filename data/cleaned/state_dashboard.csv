@@ -1,0 +1,34 @@
+State,Detection Rate,LTFU %,Efficiency Score,System Type,vs Prediction
+Delhi,0.926,4.8,88.202,Retention Failure,Underperformer
+Himachal Pradesh,0.886,1.2,87.561,Efficient System,Outperformer
+Telangana,0.849,0.65,84.348,Efficient System,Outperformer
+Kerala,0.821,2.125,80.385,Efficient System,Average
+Gujarat,0.813,2.025,79.622,Efficient System,Average
+Jharkhand,0.815,3.75,78.398,Retention Failure,Average
+Uttarakhand,0.788,2.9,76.548,Retention Failure,Outperformer
+Uttar Pradesh,0.782,2.9,75.89,Retention Failure,Average
+Odisha,0.766,1.325,75.554,Efficient System,Outperformer
+The Dadra And Nagar Haveli And Daman And Diu,0.755,0.9,74.798,Efficient System,Outperformer
+Haryana,0.76,2.725,73.947,Retention Failure,Average
+Rajasthan,0.762,3.45,73.57,Retention Failure,Average
+Maharashtra,0.744,2.05,72.907,Efficient System,Average
+Punjab,0.748,2.575,72.904,Retention Failure,Average
+Andhra Pradesh,0.73,0.65,72.566,Efficient System,Outperformer
+Arunachal Pradesh,0.749,6.6,69.943,Retention Failure,Underperformer
+Madhya Pradesh,0.707,4.4,67.63,Retention Failure,Average
+Jammu And Kashmir,0.669,1.4,65.956,Under-Detection,Outperformer
+Meghalaya,0.674,2.95,65.412,Double Failure,Underperformer
+Bihar,0.669,4.067,64.223,Double Failure,Underperformer
+West Bengal,0.649,2.15,63.525,Under-Detection,Average
+Chhattisgarh,0.642,2.025,62.921,Under-Detection,Average
+Tamil Nadu,0.644,2.7,62.674,Double Failure,Average
+Puducherry,0.63,2.525,61.447,Under-Detection,Average
+Karnataka,0.621,2.625,60.427,Double Failure,Underperformer
+Assam,0.592,1.85,58.103,Under-Detection,Average
+Andaman And Nicobar Islands,0.589,2.55,57.425,Double Failure,Outperformer
+Sikkim,0.576,1.15,56.974,Under-Detection,Outperformer
+Nagaland,0.56,3.0,54.356,Double Failure,Average
+Ladakh,0.535,0.85,53.016,Under-Detection,Average
+Goa,0.507,4.0,48.646,Double Failure,Underperformer
+Manipur,0.463,3.3,44.761,Double Failure,Underperformer
+Lakshadweep,0.361,0.0,36.111,Under-Detection,Average
