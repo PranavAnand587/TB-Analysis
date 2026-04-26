@@ -20,16 +20,31 @@ API_FILE = "api_links.txt"
 NAME_MAP = {
     "1139": "TB_Notification",
     "1188": "TB_PatientCharacteristics",
+    "1201": "TB_PresumptiveCases",
+    "1221": "TB_Tobacco",
+    "1227": "TB_Gender_Disaggregated_Outcomes",
     "1228": "TB_HIV_Coinfection",
     "1240": "TB_TreatmentOutcome_Public",
     "1241": "TB_TreatmentOutcome_Private",
     "1251": "TB_Diabetes_Coinfection",
     "1278": "TB_TreatmentOutcome_Total",
+    "1279": "TB_TreatmentOutcome_New_Public",
+    "1280": "TB_TreatmentOutcome_PreviouslyTreated_Public",
     "1372": "TB_Tribal",
+
     "7037": "RHS_Statewise",
     "7035": "RHS_Districtwise",
-    "7292": "NSS75_ReasonsNotUsingGovtHospital",
-    "7298": "NSS75_OOP_Expenditure"
+
+    "6821": "Health_Expenditure_Statewise",
+    "6066": "Public_Health_Expenditure_By_Component",
+    "2660": "Health_Expenditure_PerCapita",
+
+    "7292": "NSS75_Reasons_NotUsingGovtHospital",
+    "7298": "NSS75_OOP_Expenditure",
+    "7290": "NSS75_Hospitalisation_By_Ailment",
+    "7294": "NSS75_Treatment_Source",
+
+    "I": "UNKNOWN"  # fallback safety (optional)
 }
 
 # ---------------------------------------------------------------------------
@@ -68,6 +83,57 @@ def load_datasets(file_path: str):
 
     return datasets
 
+def extract_indicator_map(result_json):
+    mapping = {}
+
+    headers_obj = result_json.get("Headers")
+
+    if not headers_obj:
+        print("DEBUG: No Headers found")
+        return mapping
+
+    headers = headers_obj.get("Items", [])
+
+    print(f"DEBUG: Headers count = {len(headers)}")
+
+    for h in headers:
+        ind_dim = str(h.get("indicator_dimension", "")).lower()
+
+        if ind_dim in ["indicator", "measure", "measures"]:
+            ind_id = h.get("ID")
+            name = h.get("DisplayName")
+
+            if ind_id and name:
+                clean_name = (
+                    name.strip()
+                    .replace(" ", "_")
+                    .replace("(", "")
+                    .replace(")", "")
+                    .replace("/", "_")
+                )
+                mapping[ind_id] = clean_name
+
+    print(f"DEBUG: Extracted {len(mapping)} indicators")
+    return mapping
+
+def apply_indicator_names(df, mapping):
+    new_cols = {}
+
+    for col in df.columns:
+        base = col.replace("_sum", "").replace("_avg", "")
+
+        if base in mapping:
+            new_name = mapping[base]
+
+            if col.endswith("_sum"):
+                new_name += "_sum"
+            elif col.endswith("_avg"):
+                new_name += "_avg"
+
+            new_cols[col] = new_name
+
+    return df.rename(columns=new_cols)
+
 # ---------------------------------------------------------------------------
 # HELPERS
 # ---------------------------------------------------------------------------
@@ -101,7 +167,6 @@ def extract_rows(data_list: list):
         rows.append(row)
     return rows
 
-
 def pull_dataset(dataset: dict):
     name = dataset["name"]
     base_url = dataset["url"]
@@ -111,6 +176,7 @@ def pull_dataset(dataset: dict):
 
     all_rows = []
     page = 1
+    indicator_map = None
 
     while True:
         print(f"  page {page}...", end=" ", flush=True)
@@ -120,6 +186,10 @@ def pull_dataset(dataset: dict):
         if result is None:
             print("FAILED — skipping")
             break
+
+        # Extract metadata ONLY once
+        if indicator_map is None:
+            indicator_map = extract_indicator_map(result)
 
         data_list = result.get("Data", [])
 
@@ -143,9 +213,13 @@ def pull_dataset(dataset: dict):
         return pd.DataFrame()
 
     df = pd.DataFrame(all_rows)
+
+    # APPLY RENAMING HERE
+    if indicator_map:
+        df = apply_indicator_names(df, indicator_map)
+
     print(f"  Final shape: {df.shape}")
     return df
-
 
 def save_splits(df: pd.DataFrame, name: str):
     if df.empty:

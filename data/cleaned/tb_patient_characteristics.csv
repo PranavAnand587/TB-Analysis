@@ -1,0 +1,178 @@
+StateCode,StateName,Year,bacteriologically_confirmed_pct,drtb_pct,previously_treated_pct
+1,Jammu And Kashmir,2020,,,
+1,Jammu And Kashmir,2021,49.0,,11.0
+1,Jammu And Kashmir,2022,50.0,1.0,10.7
+1,Jammu And Kashmir,2023,,,9.4
+1,Jammu And Kashmir,2024,66.6,,15.0
+2,Himachal Pradesh,2020,,,
+2,Himachal Pradesh,2021,68.0,,13.0
+2,Himachal Pradesh,2022,69.0,2.5,12.7
+2,Himachal Pradesh,2023,,,10.9
+2,Himachal Pradesh,2024,71.3,,14.0
+3,Punjab,2020,,,
+3,Punjab,2021,57.0,,11.0
+3,Punjab,2022,52.0,1.6,10.0
+3,Punjab,2023,,,9.8
+3,Punjab,2024,60.2,,18.0
+4,Chandigarh,2020,,,
+4,Chandigarh,2021,46.0,,11.0
+4,Chandigarh,2022,48.0,2.5,12.4
+4,Chandigarh,2023,,,9.3
+4,Chandigarh,2024,67.4,,21.0
+5,Uttarakhand,2020,,,
+5,Uttarakhand,2021,42.0,,11.0
+5,Uttarakhand,2022,45.0,2.2,10.4
+5,Uttarakhand,2024,50.6,,13.0
+6,Haryana,2020,,,
+6,Haryana,2021,56.0,,12.0
+6,Haryana,2022,56.0,2.0,11.9
+6,Haryana,2023,,,10.9
+6,Haryana,2024,67.1,,17.0
+7,Delhi,2020,,,
+7,Delhi,2021,53.0,,12.0
+7,Delhi,2022,52.0,3.2,11.0
+7,Delhi,2023,,,11.2
+7,Delhi,2024,61.4,,24.0
+8,Rajasthan,2020,,,
+8,Rajasthan,2021,48.0,,14.0
+8,Rajasthan,2022,44.0,2.1,13.0
+8,Rajasthan,2023,,,11.4
+8,Rajasthan,2024,58.6,,18.0
+9,Uttar Pradesh,2020,,,
+9,Uttar Pradesh,2021,37.0,,10.0
+9,Uttar Pradesh,2022,39.0,2.9,9.5
+9,Uttar Pradesh,2024,44.2,,12.0
+10,Bihar,2020,,,
+10,Bihar,2021,36.0,,8.0
+10,Bihar,2022,30.0,2.1,6.8
+10,Bihar,2023,,,6.3
+10,Bihar,2024,38.4,,10.0
+11,Sikkim,2020,,,
+11,Sikkim,2021,64.0,,10.0
+11,Sikkim,2022,65.0,16.2,9.0
+11,Sikkim,2023,,,7.5
+11,Sikkim,2024,70.1,,22.0
+12,Arunachal Pradesh,2020,,,
+12,Arunachal Pradesh,2021,56.0,,13.0
+12,Arunachal Pradesh,2022,62.0,6.5,11.5
+12,Arunachal Pradesh,2023,,,8.6
+12,Arunachal Pradesh,2024,74.3,,19.0
+13,Nagaland,2020,,,
+13,Nagaland,2021,49.0,,11.0
+13,Nagaland,2022,52.0,2.5,11.2
+13,Nagaland,2023,,,9.0
+13,Nagaland,2024,69.8,,17.0
+14,Manipur,2020,,,
+14,Manipur,2021,56.0,,10.0
+14,Manipur,2022,64.0,2.0,10.1
+14,Manipur,2023,,,6.5
+14,Manipur,2024,66.0,,17.0
+15,Mizoram,2020,,,
+15,Mizoram,2021,57.0,,12.0
+15,Mizoram,2022,60.0,6.4,10.9
+15,Mizoram,2023,,,9.8
+15,Mizoram,2024,65.5,,16.0
+16,Tripura,2020,,,
+16,Tripura,2021,69.0,,12.0
+16,Tripura,2022,63.0,0.7,9.3
+16,Tripura,2023,,,8.4
+16,Tripura,2024,78.0,,15.0
+17,Meghalaya,2020,,,
+17,Meghalaya,2021,57.0,,10.0
+17,Meghalaya,2022,61.0,6.1,9.0
+17,Meghalaya,2023,,,7.9
+17,Meghalaya,2024,71.1,,17.0
+18,Assam,2020,,,
+18,Assam,2021,48.0,,11.0
+18,Assam,2022,43.0,2.0,9.4
+18,Assam,2023,,,7.6
+18,Assam,2024,55.9,,12.0
+19,West Bengal,2020,,,
+19,West Bengal,2021,66.0,,11.0
+19,West Bengal,2022,67.0,3.1,10.1
+19,West Bengal,2024,76.4,,13.0
+20,Jharkhand,2020,,,
+20,Jharkhand,2021,41.0,,7.0
+20,Jharkhand,2022,44.0,1.5,6.6
+20,Jharkhand,2023,,,6.0
+20,Jharkhand,2024,55.1,,11.0
+21,Odisha,2020,,,
+21,Odisha,2021,56.0,,8.0
+21,Odisha,2022,53.0,0.9,7.5
+21,Odisha,2023,,,6.4
+21,Odisha,2024,65.6,,11.0
+22,Chhattisgarh,2020,,,
+22,Chhattisgarh,2021,40.0,,8.0
+22,Chhattisgarh,2022,45.0,1.8,7.7
+22,Chhattisgarh,2023,,,7.0
+22,Chhattisgarh,2024,47.7,,11.0
+23,Madhya Pradesh,2020,,,
+23,Madhya Pradesh,2021,41.0,,11.0
+23,Madhya Pradesh,2022,33.0,1.6,10.9
+23,Madhya Pradesh,2023,,,10.3
+23,Madhya Pradesh,2024,49.4,,15.0
+24,Gujarat,2020,,,
+24,Gujarat,2021,37.0,,19.0
+24,Gujarat,2022,35.0,2.2,17.8
+24,Gujarat,2023,,,16.3
+24,Gujarat,2024,54.1,,20.0
+27,Maharashtra,2020,,,
+27,Maharashtra,2021,47.0,,10.0
+27,Maharashtra,2022,44.0,6.1,8.7
+27,Maharashtra,2023,,,8.0
+27,Maharashtra,2024,53.1,,16.0
+28,Andhra Pradesh,2020,,,
+28,Andhra Pradesh,2021,51.0,,12.0
+28,Andhra Pradesh,2022,51.0,3.0,10.8
+28,Andhra Pradesh,2023,,,9.5
+28,Andhra Pradesh,2024,60.1,,10.0
+29,Karnataka,2020,,,
+29,Karnataka,2021,58.0,,12.0
+29,Karnataka,2022,57.0,3.2,10.3
+29,Karnataka,2023,,,9.8
+29,Karnataka,2024,71.4,,13.0
+30,Goa,2020,,,
+30,Goa,2021,54.0,,7.0
+30,Goa,2022,57.0,2.7,6.6
+30,Goa,2023,,,7.7
+30,Goa,2024,71.5,,18.0
+31,Lakshadweep,2020,,,
+31,Lakshadweep,2021,60.0,,10.0
+31,Lakshadweep,2022,75.0,,0.0
+31,Lakshadweep,2023,,,9.1
+31,Lakshadweep,2024,100.0,,0.0
+32,Kerala,2020,,,
+32,Kerala,2021,59.0,,7.0
+32,Kerala,2022,61.0,1.4,6.2
+32,Kerala,2023,,,5.9
+32,Kerala,2024,80.9,,10.0
+33,Tamil Nadu,2020,,,
+33,Tamil Nadu,2021,62.0,,11.0
+33,Tamil Nadu,2022,62.0,2.8,9.7
+33,Tamil Nadu,2023,,,9.1
+33,Tamil Nadu,2024,72.8,,13.0
+34,Puducherry,2020,,,
+34,Puducherry,2021,71.0,,9.0
+34,Puducherry,2022,71.0,10.2,6.3
+34,Puducherry,2023,,,6.0
+34,Puducherry,2024,82.9,,17.0
+35,Andaman And Nicobar Islands,2020,,,
+35,Andaman And Nicobar Islands,2021,59.0,,10.0
+35,Andaman And Nicobar Islands,2022,56.0,6.9,6.9
+35,Andaman And Nicobar Islands,2023,,,6.9
+35,Andaman And Nicobar Islands,2024,70.9,,19.0
+36,Telangana,2020,,,
+36,Telangana,2021,48.0,,10.0
+36,Telangana,2022,51.0,2.3,9.8
+36,Telangana,2023,,,9.1
+36,Telangana,2024,59.5,,14.0
+37,Ladakh,2020,,,
+37,Ladakh,2021,54.0,,17.0
+37,Ladakh,2022,63.0,1.4,14.1
+37,Ladakh,2023,,,16.9
+37,Ladakh,2024,83.4,,16.0
+38,The Dadra And Nagar Haveli And Daman And Diu,2020,,,
+38,The Dadra And Nagar Haveli And Daman And Diu,2021,46.0,,14.0
+38,The Dadra And Nagar Haveli And Daman And Diu,2022,41.0,3.0,10.7
+38,The Dadra And Nagar Haveli And Daman And Diu,2023,,,10.1
+38,The Dadra And Nagar Haveli And Daman And Diu,2024,73.7,,15.0

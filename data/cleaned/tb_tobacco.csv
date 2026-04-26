@@ -1,0 +1,181 @@
+StateCode,StateName,Year,tb_tobacco_users_identified,tb_tobacco_pct
+1,Jammu And Kashmir,2020,0.0,
+1,Jammu And Kashmir,2021,603.0,8.0
+1,Jammu And Kashmir,2022,600.0,6.0
+1,Jammu And Kashmir,2023,793.0,6.1
+1,Jammu And Kashmir,2024,756.0,5.55
+2,Himachal Pradesh,2020,0.0,
+2,Himachal Pradesh,2021,1885.0,12.5
+2,Himachal Pradesh,2022,1998.0,11.0
+2,Himachal Pradesh,2023,1877.0,8.45
+2,Himachal Pradesh,2024,1792.0,7.3999999999999995
+3,Punjab,2020,0.0,
+3,Punjab,2021,1811.0,3.5
+3,Punjab,2022,1535.0,3.0
+3,Punjab,2023,1778.0,2.6500000000000004
+3,Punjab,2024,1968.0,2.95
+4,Chandigarh,2020,0.0,
+4,Chandigarh,2021,223.0,7.5
+4,Chandigarh,2022,169.0,3.0
+4,Chandigarh,2023,307.0,6.5
+4,Chandigarh,2024,252.0,6.199999999999999
+5,Uttarakhand,2020,0.0,
+5,Uttarakhand,2021,1129.0,12.5
+5,Uttarakhand,2022,1550.0,8.0
+5,Uttarakhand,2023,2677.0,7.95
+5,Uttarakhand,2024,3039.0,10.45
+6,Haryana,2020,0.0,
+6,Haryana,2021,2836.0,5.5
+6,Haryana,2022,2658.0,4.0
+6,Haryana,2023,3058.0,4.05
+6,Haryana,2024,2697.0,3.0999999999999996
+7,Delhi,2020,0.0,
+7,Delhi,2021,2832.0,5.5
+7,Delhi,2022,2970.0,5.0
+7,Delhi,2023,3456.0,3.8000000000000003
+7,Delhi,2024,3640.0,3.85
+8,Rajasthan,2020,0.0,
+8,Rajasthan,2021,8495.0,8.0
+8,Rajasthan,2022,9616.0,8.5
+8,Rajasthan,2023,10641.0,7.0
+8,Rajasthan,2024,8422.0,5.75
+9,Uttar Pradesh,2020,0.0,
+9,Uttar Pradesh,2021,21217.0,11.0
+9,Uttar Pradesh,2022,27997.0,9.5
+9,Uttar Pradesh,2023,30997.0,6.3
+9,Uttar Pradesh,2024,34564.0,6.3500000000000005
+10,Bihar,2020,0.0,
+10,Bihar,2021,6023.0,12.5
+10,Bihar,2022,7401.0,10.0
+10,Bihar,2023,5291.0,6.300000000000001
+10,Bihar,2024,5200.0,5.55
+11,Sikkim,2020,0.0,
+11,Sikkim,2021,139.0,14.0
+11,Sikkim,2022,72.0,6.5
+11,Sikkim,2023,79.0,6.1
+11,Sikkim,2024,131.0,15.4
+12,Arunachal Pradesh,2020,0.0,
+12,Arunachal Pradesh,2021,171.0,4.0
+12,Arunachal Pradesh,2022,235.0,10.0
+12,Arunachal Pradesh,2023,303.0,6.7
+12,Arunachal Pradesh,2024,228.0,6.0
+13,Nagaland,2020,0.0,
+13,Nagaland,2021,319.0,16.0
+13,Nagaland,2022,465.0,16.5
+13,Nagaland,2023,661.0,19.200000000000003
+13,Nagaland,2024,626.0,15.450000000000001
+14,Manipur,2020,0.0,
+14,Manipur,2021,235.0,28.0
+14,Manipur,2022,252.0,19.5
+14,Manipur,2023,342.0,14.100000000000001
+14,Manipur,2024,345.0,12.95
+15,Mizoram,2020,0.0,
+15,Mizoram,2021,680.0,45.0
+15,Mizoram,2022,619.0,39.0
+15,Mizoram,2023,621.0,28.25
+15,Mizoram,2024,696.0,26.05
+16,Tripura,2020,0.0,
+16,Tripura,2021,229.0,16.0
+16,Tripura,2022,267.0,12.0
+16,Tripura,2023,478.0,10.8
+16,Tripura,2024,414.0,12.450000000000001
+17,Meghalaya,2020,0.0,
+17,Meghalaya,2021,1356.0,58.0
+17,Meghalaya,2022,1335.0,52.0
+17,Meghalaya,2023,1444.0,35.8
+17,Meghalaya,2024,1521.0,38.349999999999994
+18,Assam,2020,0.0,
+18,Assam,2021,6362.0,24.0
+18,Assam,2022,6589.0,19.5
+18,Assam,2023,8254.0,17.15
+18,Assam,2024,8783.0,16.05
+19,West Bengal,2020,0.0,
+19,West Bengal,2021,14633.0,18.5
+19,West Bengal,2022,16714.0,18.0
+19,West Bengal,2023,19226.0,20.1
+19,West Bengal,2024,19907.0,19.6
+20,Jharkhand,2020,0.0,
+20,Jharkhand,2021,3501.0,12.5
+20,Jharkhand,2022,3392.0,9.5
+20,Jharkhand,2023,4371.0,6.8
+20,Jharkhand,2024,5694.0,7.9
+21,Odisha,2020,0.0,
+21,Odisha,2021,8418.0,14.0
+21,Odisha,2022,8773.0,12.5
+21,Odisha,2023,10228.0,12.75
+21,Odisha,2024,10924.0,13.45
+22,Chhattisgarh,2020,0.0,
+22,Chhattisgarh,2021,6421.0,22.0
+22,Chhattisgarh,2022,6916.0,19.5
+22,Chhattisgarh,2023,8322.0,18.65
+22,Chhattisgarh,2024,7892.0,18.7
+23,Madhya Pradesh,2020,0.0,
+23,Madhya Pradesh,2021,12368.0,11.5
+23,Madhya Pradesh,2022,13096.0,9.5
+23,Madhya Pradesh,2023,14599.0,10.75
+23,Madhya Pradesh,2024,15239.0,12.399999999999999
+24,Gujarat,2020,0.0,
+24,Gujarat,2021,16709.0,13.5
+24,Gujarat,2022,20286.0,13.0
+24,Gujarat,2023,19285.0,11.399999999999999
+24,Gujarat,2024,18576.0,12.0
+27,Maharashtra,2020,0.0,
+27,Maharashtra,2021,11082.0,8.0
+27,Maharashtra,2022,11609.0,6.5
+27,Maharashtra,2023,13350.0,5.95
+27,Maharashtra,2024,12054.0,5.55
+28,Andhra Pradesh,2020,0.0,
+28,Andhra Pradesh,2021,8064.0,11.5
+28,Andhra Pradesh,2022,11056.0,11.5
+28,Andhra Pradesh,2023,11195.0,10.35
+28,Andhra Pradesh,2024,9663.0,9.45
+29,Karnataka,2020,0.0,
+29,Karnataka,2021,8898.0,12.5
+29,Karnataka,2022,9683.0,11.5
+29,Karnataka,2023,11725.0,12.200000000000001
+29,Karnataka,2024,11471.0,11.75
+30,Goa,2020,0.0,
+30,Goa,2021,59.0,2.5
+30,Goa,2022,117.0,5.5
+30,Goa,2023,106.0,5.25
+30,Goa,2024,160.0,5.35
+31,Lakshadweep,2020,0.0,
+31,Lakshadweep,2021,2.0,5.5
+31,Lakshadweep,2022,0.0,0.0
+31,Lakshadweep,2023,1.0,4.5
+31,Lakshadweep,2024,0.0,0.0
+32,Kerala,2020,0.0,
+32,Kerala,2021,2353.0,11.0
+32,Kerala,2022,2429.0,10.5
+32,Kerala,2023,2724.0,10.05
+32,Kerala,2024,3170.0,11.7
+33,Tamil Nadu,2020,0.0,
+33,Tamil Nadu,2021,10947.0,14.5
+33,Tamil Nadu,2022,12409.0,13.0
+33,Tamil Nadu,2023,14676.0,13.55
+33,Tamil Nadu,2024,16488.0,14.95
+34,Puducherry,2020,0.0,
+34,Puducherry,2021,201.0,8.0
+34,Puducherry,2022,213.0,15.0
+34,Puducherry,2023,225.0,32.55
+34,Puducherry,2024,200.0,6.6
+35,Andaman And Nicobar Islands,2020,0.0,
+35,Andaman And Nicobar Islands,2021,78.0,20.0
+35,Andaman And Nicobar Islands,2022,73.0,8.5
+35,Andaman And Nicobar Islands,2023,89.0,9.0
+35,Andaman And Nicobar Islands,2024,55.0,6.0
+36,Telangana,2020,0.0,
+36,Telangana,2021,7105.0,11.0
+36,Telangana,2022,6561.0,9.5
+36,Telangana,2023,7287.0,8.65
+36,Telangana,2024,6018.0,7.4
+37,Ladakh,2020,0.0,
+37,Ladakh,2021,1.0,0.5
+37,Ladakh,2022,6.0,1.5
+37,Ladakh,2023,8.0,6.75
+37,Ladakh,2024,6.0,1.2
+38,The Dadra And Nagar Haveli And Daman And Diu,2020,0.0,
+38,The Dadra And Nagar Haveli And Daman And Diu,2021,76.0,12.5
+38,The Dadra And Nagar Haveli And Daman And Diu,2022,54.0,7.5
+38,The Dadra And Nagar Haveli And Daman And Diu,2023,69.0,7.85
+38,The Dadra And Nagar Haveli And Daman And Diu,2024,67.0,15.65

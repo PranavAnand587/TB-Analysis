@@ -1,0 +1,37 @@
+StateCode,StateName,Year,treatment_from_govt_pct,treatment_from_private_pct
+1,Jammu and Kashmir,2017,89.8,5.6
+2,Himachal Pradesh,2017,76.6,19.7
+3,Punjab,2017,28.3,64.8
+4,Chandigarh,2017,68.1,25.8
+5,Uttarakhand,2017,36.6,58.3
+6,Haryana,2017,32.3,61.2
+7,Delhi,2017,59.7,35.2
+8,Rajasthan,2017,48.3,47.1
+9,Uttar Pradesh,2017,24.9,63.7
+10,Bihar,2017,35.7,42.4
+11,Sikkim,2017,75.5,17.2
+12,Arunachal Pradesh,2017,91.3,2.9
+13,Nagaland,2017,64.5,28.2
+14,Manipur,2017,81.4,12.3
+15,Mizoram,2017,79.0,13.2
+16,Tripura,2017,80.4,3.2
+17,Meghalaya,2017,87.4,8.6
+18,Assam,2017,69.8,23.3
+19,West Bengal,2017,57.6,16.5
+20,Jharkhand,2017,37.8,44.2
+21,Odisha,2017,71.6,24.8
+22,Chhattisgarh,2017,51.7,39.9
+23,Madhya Pradesh,2017,46.3,45.8
+24,Gujarat,2017,30.2,58.9
+27,Maharashtra,2017,20.7,68.1
+28,Andhra Pradesh,2017,26.9,66.6
+29,Karnataka,2017,24.1,69.5
+30,Goa,2017,69.3,28.4
+31,Lakshadweep,2017,61.2,37.5
+32,Kerala,2017,39.8,55.4
+33,Tamil Nadu,2017,49.3,47.8
+34,Puducherry,2017,68.8,30.3
+35,Andaman and Nicobar Islands,2017,85.5,14.2
+36,Telangana,2017,21.1,74.9
+37,Ladakh,2017,89.8,5.6
+38,The Dadra and Nagar Haveli and Daman and Diu,2017,36.6333905326,63.3666094674

@@ -1,0 +1,176 @@
+StateCode,StateName,Year,state_category,expenditure_rural_health,expenditure_urban_health,expenditure_public_health
+1,Jammu And Kashmir,2015,Major (Non EAG States),898.8985843851,309.0880877755,73.3595145037
+1,Jammu And Kashmir,2016,Major (Non EAG States),4508883.124290351,7703572.605702301,650375.1336569433
+1,Jammu And Kashmir,2017,Major (Non EAG States),5182085.782607118,8318996.332269112,717616.4646510141
+1,Jammu And Kashmir,2018,Major (Non EAG States),5236741.555292938,8194665.648961419,353031.4150900575
+1,Jammu And Kashmir,2019,Major (Non EAG States),6132672.502784611,6716850.944934016,614026.9614106612
+2,Himachal Pradesh,2015,Major (Non EAG States),476.0,357.0,34.0
+2,Himachal Pradesh,2016,Major (Non EAG States),7261502.0,4052171.0,373320.0
+2,Himachal Pradesh,2017,Major (Non EAG States),7427195.0,4443337.0,563807.0
+2,Himachal Pradesh,2018,Major (Non EAG States),8550963.0,4739312.0,685282.0
+2,Himachal Pradesh,2019,Major (Non EAG States),7569923.0,4924048.0,835479.0
+3,Punjab,2015,Major (Non EAG States),514.0,1217.0,195.0
+3,Punjab,2016,Major (Non EAG States),5179139.0,16553164.0,1666279.0
+3,Punjab,2017,Major (Non EAG States),5348080.0,15120803.0,1713096.0
+3,Punjab,2018,Major (Non EAG States),6270610.0,19417455.0,1849520.0
+3,Punjab,2019,Major (Non EAG States),6196169.0,21771154.0,1994096.0
+4,Chandigarh,2015,Union Territories,,,
+4,Chandigarh,2016,Union Territories,,,
+4,Chandigarh,2017,Union Territories,,,
+4,Chandigarh,2018,Union Territories,,,
+4,Chandigarh,2019,Union Territories,,,
+5,Uttarakhand,2015,EAG+1 States,632.0,442.0,167.0
+5,Uttarakhand,2016,EAG+1 States,6494412.0,4577664.0,1420867.0
+5,Uttarakhand,2017,EAG+1 States,5848963.0,5675785.0,1800517.0
+5,Uttarakhand,2018,EAG+1 States,8378878.0,7477730.0,1692636.0
+5,Uttarakhand,2019,EAG+1 States,7336947.0,7990505.0,1958180.0
+6,Haryana,2015,Major (Non EAG States),862.0,785.0,179.0
+6,Haryana,2016,Major (Non EAG States),11528157.0,8333562.0,1795210.0
+6,Haryana,2017,Major (Non EAG States),11821712.0,11042530.0,1879478.0
+6,Haryana,2018,Major (Non EAG States),14784312.0,13090636.0,2126840.0
+6,Haryana,2019,Major (Non EAG States),18590048.0,16007802.0,2752346.0
+7,Delhi,2015,Major (Non EAG States),6.0,2798.0,293.0
+7,Delhi,2016,Major (Non EAG States),402359.0,31106023.0,2566430.0
+7,Delhi,2017,Major (Non EAG States),95402.0,38278718.0,2042345.0
+7,Delhi,2018,Major (Non EAG States),160578.0,42716901.0,2746570.0
+7,Delhi,2019,Major (Non EAG States),488443.0,45065362.0,2652885.0
+8,Rajasthan,2015,EAG+1 States,1892.0,1829.0,849.0
+8,Rajasthan,2016,EAG+1 States,20457303.0,20569608.0,9711815.0
+8,Rajasthan,2017,EAG+1 States,24320500.0,21885115.0,17185638.0
+8,Rajasthan,2018,EAG+1 States,27964304.0,29667992.0,19643184.0
+8,Rajasthan,2019,EAG+1 States,28765451.0,29091681.0,14836671.0
+9,Uttar Pradesh,2015,EAG+1 States,4378.0,2686.0,430.0
+9,Uttar Pradesh,2016,EAG+1 States,53020412.0,30303063.0,4103898.0
+9,Uttar Pradesh,2017,EAG+1 States,48283271.0,33780651.0,5717406.0
+9,Uttar Pradesh,2018,EAG+1 States,53536599.0,36544823.0,5412886.0
+9,Uttar Pradesh,2019,EAG+1 States,50891538.0,41046196.0,5569761.0
+10,Bihar,2015,EAG+1 States,1737.0,1917.0,79.0
+10,Bihar,2016,EAG+1 States,24365340.0,20730954.0,869161.0
+10,Bihar,2017,EAG+1 States,27447856.0,20713631.0,1017346.0
+10,Bihar,2018,EAG+1 States,33522365.0,23333038.0,1113161.0
+10,Bihar,2019,EAG+1 States,32391572.0,26788321.0,1435559.0
+11,Sikkim,2015,North East States,36.0,174.0,32.0
+11,Sikkim,2016,North East States,421741.0,1861427.0,349267.0
+11,Sikkim,2017,North East States,405213.0,3692755.0,321157.0
+11,Sikkim,2018,North East States,999374.0,2028710.0,846512.0
+11,Sikkim,2019,North East States,865312.0,2624081.0,496005.0
+12,Arunachal Pradesh,2015,North East States,226.0,165.0,68.0
+12,Arunachal Pradesh,2016,North East States,3036579.0,2160082.0,939709.0
+12,Arunachal Pradesh,2017,North East States,4250714.0,1858409.0,1223754.0
+12,Arunachal Pradesh,2018,North East States,4032714.0,2332203.0,1129791.0
+12,Arunachal Pradesh,2019,North East States,4628654.0,3430065.0,1202599.0
+13,Nagaland,2015,North East States,107.0,202.0,127.0
+13,Nagaland,2016,North East States,1069033.0,2422957.0,1175419.0
+13,Nagaland,2017,North East States,1806445.0,2553649.0,1407590.0
+13,Nagaland,2018,North East States,1399254.0,2896475.0,1543457.0
+13,Nagaland,2019,North East States,1519497.0,3858016.0,899310.0
+14,Manipur,2015,North East States,,,
+14,Manipur,2016,North East States,1999546.0,1151413.0,760725.0
+14,Manipur,2017,North East States,3006291.0,1078454.0,502760.0
+14,Manipur,2018,North East States,3298171.0,897498.0,459079.0
+14,Manipur,2019,North East States,3919869.0,905950.0,418699.0
+15,Mizoram,2015,North East States,98.0,106.0,134.0
+15,Mizoram,2016,North East States,986057.0,1515059.0,1135830.0
+15,Mizoram,2017,North East States,1335649.0,1648728.0,1486964.0
+15,Mizoram,2018,North East States,1233076.0,1878349.0,1734459.0
+15,Mizoram,2019,North East States,1351989.0,1925259.0,1595699.0
+16,Tripura,2015,North East States,102.0,266.0,45.0
+16,Tripura,2016,North East States,1154301.0,3208635.0,482008.0
+16,Tripura,2017,North East States,1333073.0,3752090.0,702119.0
+16,Tripura,2018,North East States,1421656.0,4300090.0,779163.0
+16,Tripura,2019,North East States,1442338.0,4211150.0,828821.0
+17,Meghalaya,2015,North East States,137.0,234.0,32.0
+17,Meghalaya,2016,North East States,1450017.0,2511152.0,340345.0
+17,Meghalaya,2017,North East States,3446268.0,5446772.0,1208907.0
+17,Meghalaya,2018,North East States,2260519.0,4586734.0,613418.0
+17,Meghalaya,2019,North East States,2229958.0,3117258.0,491883.0
+18,Assam,2015,EAG+1 States,1727.0,292.0,180.0
+18,Assam,2016,EAG+1 States,15941540.0,3319106.0,1770284.0
+18,Assam,2017,EAG+1 States,29422825.0,3535706.0,1814153.0
+18,Assam,2018,EAG+1 States,30948977.0,4007036.0,1789286.0
+18,Assam,2019,EAG+1 States,35330211.0,4423527.0,1893122.0
+19,West Bengal,2015,Major (Non EAG States),2429.0,3910.0,288.0
+19,West Bengal,2016,Major (Non EAG States),25014709.0,35212844.0,7549897.0
+19,West Bengal,2017,Major (Non EAG States),30477621.0,36418882.0,6390413.0
+19,West Bengal,2018,Major (Non EAG States),34620084.0,39339221.0,2695219.0
+19,West Bengal,2019,Major (Non EAG States),37218450.0,42610851.0,7083422.0
+20,Jharkhand,2015,EAG+1 States,329.0,1466.0,101.0
+20,Jharkhand,2016,EAG+1 States,3632608.0,15532089.0,989425.0
+20,Jharkhand,2017,EAG+1 States,4013771.0,16113661.0,1171500.0
+20,Jharkhand,2018,EAG+1 States,4239461.0,21836250.0,1111829.0
+20,Jharkhand,2019,EAG+1 States,4069333.0,22816668.0,1157727.0
+21,Odisha,2015,EAG+1 States,1489.0,1388.0,268.0
+21,Odisha,2016,EAG+1 States,21880292.0,12582116.0,2476690.0
+21,Odisha,2017,EAG+1 States,24282275.0,13890281.0,3037524.0
+21,Odisha,2018,EAG+1 States,25277579.0,14713856.0,7824771.0
+21,Odisha,2019,EAG+1 States,27930179.0,15750593.0,8305554.0
+22,Chhattisgarh,2015,EAG+1 States,1465.0,743.0,146.0
+22,Chhattisgarh,2016,EAG+1 States,17877398.0,9220709.0,1712961.0
+22,Chhattisgarh,2017,EAG+1 States,21522930.0,12057941.0,1891946.0
+22,Chhattisgarh,2018,EAG+1 States,19014850.0,12002656.0,1775879.0
+22,Chhattisgarh,2019,EAG+1 States,24032652.0,14542740.0,2667207.0
+23,Madhya Pradesh,2015,EAG+1 States,871.0,3440.0,398.0
+23,Madhya Pradesh,2016,EAG+1 States,11423048.0,37050443.0,3199382.0
+23,Madhya Pradesh,2017,EAG+1 States,17686387.0,44810635.0,3621223.0
+23,Madhya Pradesh,2018,EAG+1 States,20157931.0,43835480.0,4163511.0
+23,Madhya Pradesh,2019,EAG+1 States,19196464.0,60343651.0,4609052.0
+24,Gujarat,2015,Major (Non EAG States),1213.0,3034.0,1466.0
+24,Gujarat,2016,Major (Non EAG States),12306523.0,32826254.0,14764759.0
+24,Gujarat,2017,Major (Non EAG States),10817492.0,38251137.0,14850039.0
+24,Gujarat,2018,Major (Non EAG States),13132241.0,44198416.0,16564661.0
+24,Gujarat,2019,Major (Non EAG States),11806439.0,38761054.0,18493113.0
+27,Maharashtra,2015,Major (Non EAG States),558.0,3418.0,4567.0
+27,Maharashtra,2016,Major (Non EAG States),5603558.0,36271242.0,49337851.0
+27,Maharashtra,2017,Major (Non EAG States),6445365.0,43399175.0,53957887.0
+27,Maharashtra,2018,Major (Non EAG States),8670985.0,48928218.0,52102997.0
+27,Maharashtra,2019,Major (Non EAG States),11728905.0,46457427.0,64151913.0
+28,Andhra Pradesh,2015,Major (Non EAG States),888.0,2007.0,343.0
+28,Andhra Pradesh,2016,Major (Non EAG States),9568798.0,29512718.0,4459904.0
+28,Andhra Pradesh,2017,Major (Non EAG States),8586905.0,25855013.0,4306682.0
+28,Andhra Pradesh,2018,Major (Non EAG States),8540210.0,30207517.0,4140865.0
+28,Andhra Pradesh,2019,Major (Non EAG States),8412239.0,33320052.0,4286051.0
+29,Karnataka,2015,Major (Non EAG States),1204.0,1433.0,455.0
+29,Karnataka,2016,Major (Non EAG States),14799016.0,15666910.0,3985867.0
+29,Karnataka,2017,Major (Non EAG States),20433185.0,18473012.0,3427501.0
+29,Karnataka,2018,Major (Non EAG States),21381769.0,18866254.0,3401651.0
+29,Karnataka,2019,Major (Non EAG States),20705324.0,19043407.0,4323011.0
+30,Goa,2015,Major (Non EAG States),103.0,289.0,50.0
+30,Goa,2016,Major (Non EAG States),1028505.0,3471770.0,368072.0
+30,Goa,2017,Major (Non EAG States),1575767.0,4616274.0,639634.0
+30,Goa,2018,Major (Non EAG States),1982221.0,4688759.0,487223.0
+30,Goa,2019,Major (Non EAG States),2452005.0,5067431.0,803682.0
+32,Kerala,2015,Major (Non EAG States),706.0,1700.0,728.0
+32,Kerala,2016,Major (Non EAG States),8372351.0,20763575.0,9889631.0
+32,Kerala,2017,Major (Non EAG States),9967210.0,23964333.0,9748828.0
+32,Kerala,2018,Major (Non EAG States),10115870.0,24125195.0,10986819.0
+32,Kerala,2019,Major (Non EAG States),10080331.0,24125670.0,17868865.0
+33,Tamil Nadu,2015,Major (Non EAG States),923.0,2708.0,489.0
+33,Tamil Nadu,2016,Major (Non EAG States),9486183.0,31828082.0,4982816.0
+33,Tamil Nadu,2017,Major (Non EAG States),10405610.0,36054129.0,5430703.0
+33,Tamil Nadu,2018,Major (Non EAG States),12266473.0,43810453.0,6053778.0
+33,Tamil Nadu,2019,Major (Non EAG States),13801215.0,43881323.0,6247199.0
+34,Puducherry,2015,Union Territories,41.0,282.0,25.0
+34,Puducherry,2016,Union Territories,429936.0,2781914.0,275629.0
+34,Puducherry,2017,Union Territories,463264.0,2936069.0,304487.0
+34,Puducherry,2018,Union Territories,503393.0,3249662.0,318666.0
+34,Puducherry,2019,Union Territories,530982.0,3571977.0,336624.0
+35,Andaman And Nicobar Islands,2015,Union Territories,,,
+35,Andaman And Nicobar Islands,2016,Union Territories,,,
+35,Andaman And Nicobar Islands,2017,Union Territories,,,
+35,Andaman And Nicobar Islands,2018,Union Territories,,,
+35,Andaman And Nicobar Islands,2019,Union Territories,,,
+36,Telangana,2015,Major (Non EAG States),495.0,2066.0,261.0
+36,Telangana,2016,Major (Non EAG States),5087573.0,26192202.0,2901662.0
+36,Telangana,2017,Major (Non EAG States),5126335.0,22568912.0,2999512.0
+36,Telangana,2018,Major (Non EAG States),5941215.0,25921115.0,3914995.0
+36,Telangana,2019,Major (Non EAG States),5070395.0,25844112.0,5954078.0
+37,Ladakh,2015,Major (Non EAG States),20.1014156149,6.9119122245,1.6404854963
+37,Ladakh,2016,Major (Non EAG States),100828.8757096496,172269.3942976997,14543.8663430567
+37,Ladakh,2017,Major (Non EAG States),115883.2173928819,186031.6677308885,16047.5353489859
+37,Ladakh,2018,Major (Non EAG States),117105.444707062,183251.3510385812,7894.5849099425
+37,Ladakh,2019,Major (Non EAG States),137140.497215389,150204.0550659841,13731.0385893388
+38,The Dadra And Nagar Haveli And Daman And Diu,2015,Union Territories,,,
+38,The Dadra And Nagar Haveli And Daman And Diu,2016,Union Territories,,,
+38,The Dadra And Nagar Haveli And Daman And Diu,2017,Union Territories,,,
+38,The Dadra And Nagar Haveli And Daman And Diu,2018,Union Territories,,,
+38,The Dadra And Nagar Haveli And Daman And Diu,2019,Union Territories,,,

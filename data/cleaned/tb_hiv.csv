@@ -1,0 +1,181 @@
+StateCode,StateName,Year,tb_hiv_known_status_pct,tb_hiv_coinfected_pct
+1,Jammu and Kashmir,2020,,0.0
+1,Jammu and Kashmir,2021,,
+1,Jammu and Kashmir,2022,,
+1,Jammu and Kashmir,2023,,
+1,Jammu and Kashmir,2024,96.0,
+2,Himachal Pradesh,2020,,1.0
+2,Himachal Pradesh,2021,,
+2,Himachal Pradesh,2022,,
+2,Himachal Pradesh,2023,,
+2,Himachal Pradesh,2024,99.0,
+3,Punjab,2020,,2.0
+3,Punjab,2021,,
+3,Punjab,2022,,
+3,Punjab,2023,,
+3,Punjab,2024,93.0,
+4,Chandigarh,2020,,8.0
+4,Chandigarh,2021,,
+4,Chandigarh,2022,,
+4,Chandigarh,2023,,
+4,Chandigarh,2024,89.0,
+5,Uttarakhand,2020,,1.0
+5,Uttarakhand,2021,,
+5,Uttarakhand,2022,,
+5,Uttarakhand,2023,,
+5,Uttarakhand,2024,97.0,
+6,Haryana,2020,,1.0
+6,Haryana,2021,,
+6,Haryana,2022,,
+6,Haryana,2023,,
+6,Haryana,2024,98.0,
+7,Delhi,2020,,3.0
+7,Delhi,2021,,
+7,Delhi,2022,,
+7,Delhi,2023,,
+7,Delhi,2024,83.0,
+8,Rajasthan,2020,,1.0
+8,Rajasthan,2021,,
+8,Rajasthan,2022,,
+8,Rajasthan,2023,,
+8,Rajasthan,2024,94.0,
+9,Uttar Pradesh,2020,,1.0
+9,Uttar Pradesh,2021,,
+9,Uttar Pradesh,2022,,
+9,Uttar Pradesh,2023,,
+9,Uttar Pradesh,2024,99.0,
+10,Bihar,2020,,2.0
+10,Bihar,2021,,
+10,Bihar,2022,,
+10,Bihar,2023,,
+10,Bihar,2024,87.0,
+11,Sikkim,2020,,0.0
+11,Sikkim,2021,,
+11,Sikkim,2022,,
+11,Sikkim,2023,,
+11,Sikkim,2024,96.0,
+12,Arunachal Pradesh,2020,,0.0
+12,Arunachal Pradesh,2021,,
+12,Arunachal Pradesh,2022,,
+12,Arunachal Pradesh,2023,,
+12,Arunachal Pradesh,2024,89.0,
+13,Nagaland,2020,,10.0
+13,Nagaland,2021,,
+13,Nagaland,2022,,
+13,Nagaland,2023,,
+13,Nagaland,2024,95.0,
+14,Manipur,2020,,7.0
+14,Manipur,2021,,
+14,Manipur,2022,,
+14,Manipur,2023,,
+14,Manipur,2024,86.0,
+15,Mizoram,2020,,12.0
+15,Mizoram,2021,,
+15,Mizoram,2022,,
+15,Mizoram,2023,,
+15,Mizoram,2024,99.0,
+16,Tripura,2020,,1.0
+16,Tripura,2021,,
+16,Tripura,2022,,
+16,Tripura,2023,,
+16,Tripura,2024,98.0,
+17,Meghalaya,2020,,4.0
+17,Meghalaya,2021,,
+17,Meghalaya,2022,,
+17,Meghalaya,2023,,
+17,Meghalaya,2024,87.0,
+18,Assam,2020,,1.0
+18,Assam,2021,,
+18,Assam,2022,,
+18,Assam,2023,,
+18,Assam,2024,94.0,
+19,West Bengal,2020,,1.0
+19,West Bengal,2021,,
+19,West Bengal,2022,,
+19,West Bengal,2023,,
+19,West Bengal,2024,96.0,
+20,Jharkhand,2020,,1.0
+20,Jharkhand,2021,,
+20,Jharkhand,2022,,
+20,Jharkhand,2023,,
+20,Jharkhand,2024,95.0,
+21,Odisha,2020,,1.0
+21,Odisha,2021,,
+21,Odisha,2022,,
+21,Odisha,2023,,
+21,Odisha,2024,99.0,
+22,Chhattisgarh,2020,,1.0
+22,Chhattisgarh,2021,,
+22,Chhattisgarh,2022,,
+22,Chhattisgarh,2023,,
+22,Chhattisgarh,2024,96.0,
+23,Madhya Pradesh,2020,,1.0
+23,Madhya Pradesh,2021,,
+23,Madhya Pradesh,2022,,
+23,Madhya Pradesh,2023,,
+23,Madhya Pradesh,2024,94.0,
+24,Gujarat,2020,,2.0
+24,Gujarat,2021,,
+24,Gujarat,2022,,
+24,Gujarat,2023,,
+24,Gujarat,2024,97.0,
+27,Maharashtra,2020,,4.0
+27,Maharashtra,2021,,
+27,Maharashtra,2022,,
+27,Maharashtra,2023,,
+27,Maharashtra,2024,96.0,
+28,Andhra Pradesh,2020,,7.0
+28,Andhra Pradesh,2021,,
+28,Andhra Pradesh,2022,,
+28,Andhra Pradesh,2023,,
+28,Andhra Pradesh,2024,99.0,
+29,Karnataka,2020,,7.0
+29,Karnataka,2021,,
+29,Karnataka,2022,,
+29,Karnataka,2023,,
+29,Karnataka,2024,96.0,
+30,Goa,2020,,3.0
+30,Goa,2021,,
+30,Goa,2022,,
+30,Goa,2023,,
+30,Goa,2024,85.0,
+31,Lakshadweep,2020,,0.0
+31,Lakshadweep,2021,,
+31,Lakshadweep,2022,,
+31,Lakshadweep,2023,,
+31,Lakshadweep,2024,100.0,
+32,Kerala,2020,,1.0
+32,Kerala,2021,,
+32,Kerala,2022,,
+32,Kerala,2023,,
+32,Kerala,2024,97.0,
+33,Tamil Nadu,2020,,4.0
+33,Tamil Nadu,2021,,
+33,Tamil Nadu,2022,,
+33,Tamil Nadu,2023,,
+33,Tamil Nadu,2024,96.0,
+34,Puducherry,2020,,2.0
+34,Puducherry,2021,,
+34,Puducherry,2022,,
+34,Puducherry,2023,,
+34,Puducherry,2024,99.0,
+35,Andaman and Nicobar Islands,2020,,1.0
+35,Andaman and Nicobar Islands,2021,,
+35,Andaman and Nicobar Islands,2022,,
+35,Andaman and Nicobar Islands,2023,,
+35,Andaman and Nicobar Islands,2024,93.0,
+36,Telangana,2020,,4.0
+36,Telangana,2021,,
+36,Telangana,2022,,
+36,Telangana,2023,,
+36,Telangana,2024,73.0,
+37,Ladakh,2020,,0.0
+37,Ladakh,2021,,
+37,Ladakh,2022,,
+37,Ladakh,2023,,
+37,Ladakh,2024,97.0,
+38,The Dadra and Nagar Haveli and Daman and Diu,2020,,0.0
+38,The Dadra and Nagar Haveli and Daman and Diu,2021,,
+38,The Dadra and Nagar Haveli and Daman and Diu,2022,,
+38,The Dadra and Nagar Haveli and Daman and Diu,2023,,
+38,The Dadra and Nagar Haveli and Daman and Diu,2024,100.0,

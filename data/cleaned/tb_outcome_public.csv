@@ -1,0 +1,217 @@
+StateCode,StateName,Year,success_rate_public,ltfu_rate_public,death_rate_public
+1,Jammu and Kashmir,2017,69.0,2.0,2.4
+1,Jammu and Kashmir,2018,84.0,2.0,3.0
+1,Jammu and Kashmir,2019,85.0,1.5,2.7
+1,Jammu and Kashmir,2020,83.0,1.3,3.6
+1,Jammu and Kashmir,2021,85.8,1.6,3.9
+1,Jammu and Kashmir,2022,86.2,1.2,3.8
+2,Himachal Pradesh,2017,89.0,2.0,4.1
+2,Himachal Pradesh,2018,89.0,2.0,4.0
+2,Himachal Pradesh,2019,90.0,1.4,4.8
+2,Himachal Pradesh,2020,88.0,1.0,5.5
+2,Himachal Pradesh,2021,87.7,1.0,6.2
+2,Himachal Pradesh,2022,86.9,1.5,5.8
+3,Punjab,2017,87.0,4.0,4.3
+3,Punjab,2018,85.0,4.0,5.0
+3,Punjab,2019,81.0,3.1,4.3
+3,Punjab,2020,80.0,2.9,5.3
+3,Punjab,2021,83.6,2.9,4.8
+3,Punjab,2022,83.6,2.8,4.3
+4,Chandigarh,2017,88.0,3.8,3.4
+4,Chandigarh,2018,88.0,3.0,3.0
+4,Chandigarh,2019,83.0,4.1,3.3
+4,Chandigarh,2020,82.0,3.8,4.5
+4,Chandigarh,2021,85.1,3.1,3.8
+4,Chandigarh,2022,83.9,3.0,4.1
+5,Uttarakhand,2017,77.0,5.6,3.4
+5,Uttarakhand,2018,84.0,4.0,4.0
+5,Uttarakhand,2019,84.0,3.2,4.1
+5,Uttarakhand,2020,85.0,2.7,3.9
+5,Uttarakhand,2021,86.0,2.5,4.2
+5,Uttarakhand,2022,87.7,2.4,3.8
+6,Haryana,2017,84.0,3.2,4.3
+6,Haryana,2018,85.0,3.0,4.0
+6,Haryana,2019,82.0,2.7,4.1
+6,Haryana,2020,80.0,2.2,4.3
+6,Haryana,2021,83.3,1.8,4.6
+6,Haryana,2022,86.7,1.3,4.3
+7,Delhi,2017,72.0,4.1,1.8
+7,Delhi,2018,77.0,4.0,2.0
+7,Delhi,2019,76.0,4.5,1.9
+7,Delhi,2020,75.0,4.7,2.4
+7,Delhi,2021,77.7,4.9,2.6
+7,Delhi,2022,79.3,4.4,2.3
+8,Rajasthan,2017,85.0,4.1,3.5
+8,Rajasthan,2018,82.0,3.0,3.0
+8,Rajasthan,2019,82.0,3.3,3.3
+8,Rajasthan,2020,82.0,2.9,3.6
+8,Rajasthan,2021,84.6,2.7,3.6
+8,Rajasthan,2022,88.0,2.1,3.2
+9,Uttar Pradesh,2017,69.0,4.4,3.4
+9,Uttar Pradesh,2018,83.0,4.0,4.0
+9,Uttar Pradesh,2019,82.0,4.2,3.5
+9,Uttar Pradesh,2020,83.0,3.1,3.8
+9,Uttar Pradesh,2021,85.7,2.3,3.7
+9,Uttar Pradesh,2022,88.6,1.4,3.2
+10,Bihar,2017,72.0,4.0,2.1
+10,Bihar,2018,80.0,5.0,2.0
+10,Bihar,2019,76.0,3.7,2.4
+10,Bihar,2020,74.0,4.0,2.5
+10,Bihar,2021,76.0,4.1,2.6
+10,Bihar,2022,79.2,3.6,2.3
+11,Sikkim,2017,77.0,0.6,2.7
+11,Sikkim,2018,85.0,0.0,2.0
+11,Sikkim,2019,89.0,0.8,3.7
+11,Sikkim,2020,90.0,0.8,4.0
+11,Sikkim,2021,87.7,1.4,4.1
+11,Sikkim,2022,90.7,0.5,3.5
+12,Arunachal Pradesh,2017,71.0,5.5,1.8
+12,Arunachal Pradesh,2018,82.0,6.0,2.0
+12,Arunachal Pradesh,2019,83.0,7.2,2.3
+12,Arunachal Pradesh,2020,83.0,5.1,3.2
+12,Arunachal Pradesh,2021,79.3,6.6,2.7
+12,Arunachal Pradesh,2022,82.5,7.5,2.2
+13,Nagaland,2017,74.0,4.3,2.0
+13,Nagaland,2018,87.0,4.0,2.0
+13,Nagaland,2019,84.0,3.3,2.1
+13,Nagaland,2020,81.0,2.3,2.8
+13,Nagaland,2021,85.9,2.7,2.7
+13,Nagaland,2022,87.9,4.8,2.5
+14,Manipur,2017,69.0,3.5,2.5
+14,Manipur,2018,80.0,3.0,3.0
+14,Manipur,2019,69.0,2.4,3.1
+14,Manipur,2020,82.0,2.7,3.5
+14,Manipur,2021,80.4,3.4,4.3
+14,Manipur,2022,74.5,4.1,3.5
+15,Mizoram,2017,66.0,1.7,2.1
+15,Mizoram,2018,89.0,2.0,2.0
+15,Mizoram,2019,68.0,1.4,1.7
+15,Mizoram,2020,89.0,1.5,2.7
+15,Mizoram,2021,88.2,1.9,4.2
+15,Mizoram,2022,87.5,1.9,4.3
+16,Tripura,2017,72.0,4.0,5.2
+16,Tripura,2018,87.0,2.0,5.0
+16,Tripura,2019,83.0,2.9,5.9
+16,Tripura,2020,81.0,2.3,7.5
+16,Tripura,2021,85.3,2.1,6.1
+16,Tripura,2022,86.9,2.4,5.6
+17,Meghalaya,2017,68.0,3.7,3.2
+17,Meghalaya,2018,79.0,2.0,4.0
+17,Meghalaya,2019,79.0,3.0,4.2
+17,Meghalaya,2020,80.0,3.2,5.2
+17,Meghalaya,2021,84.1,2.0,5.0
+17,Meghalaya,2022,83.4,3.0,4.4
+18,Assam,2017,76.0,5.8,3.8
+18,Assam,2018,86.0,4.0,4.0
+18,Assam,2019,84.0,2.7,3.9
+18,Assam,2020,84.0,1.9,4.1
+18,Assam,2021,88.0,2.0,4.3
+18,Assam,2022,88.5,1.5,3.8
+19,West Bengal,2017,83.0,5.1,4.6
+19,West Bengal,2018,86.0,3.0,5.0
+19,West Bengal,2019,83.0,2.6,5.2
+19,West Bengal,2020,84.0,2.0,5.6
+19,West Bengal,2021,84.3,1.9,5.7
+19,West Bengal,2022,86.0,2.1,5.1
+20,Jharkhand,2017,78.0,2.8,2.1
+20,Jharkhand,2018,89.0,2.0,3.0
+20,Jharkhand,2019,82.0,2.0,2.5
+20,Jharkhand,2020,84.0,2.2,2.9
+20,Jharkhand,2021,87.8,2.4,3.1
+20,Jharkhand,2022,89.2,1.8,2.7
+21,Odisha,2017,62.0,2.8,3.9
+21,Odisha,2018,89.0,3.0,5.0
+21,Odisha,2019,88.0,2.1,5.4
+21,Odisha,2020,89.0,1.3,5.8
+21,Odisha,2021,89.6,1.0,6.0
+21,Odisha,2022,91.0,0.8,4.7
+22,Chhattisgarh,2017,89.0,3.1,4.5
+22,Chhattisgarh,2018,89.0,2.0,4.0
+22,Chhattisgarh,2019,85.0,1.7,4.4
+22,Chhattisgarh,2020,87.0,1.7,5.2
+22,Chhattisgarh,2021,86.0,1.4,5.8
+22,Chhattisgarh,2022,88.7,1.5,5.0
+23,Madhya Pradesh,2017,87.0,4.7,3.4
+23,Madhya Pradesh,2018,88.0,4.0,3.0
+23,Madhya Pradesh,2019,83.0,3.5,3.2
+23,Madhya Pradesh,2020,84.0,3.3,3.6
+23,Madhya Pradesh,2021,85.1,3.4,4.2
+23,Madhya Pradesh,2022,87.1,2.6,3.6
+24,Gujarat,2017,82.0,4.5,6.0
+24,Gujarat,2018,84.0,3.0,6.0
+24,Gujarat,2019,86.0,2.2,5.3
+24,Gujarat,2020,87.0,1.4,5.5
+24,Gujarat,2021,87.7,1.3,5.7
+24,Gujarat,2022,88.5,1.2,4.9
+27,Maharashtra,2017,81.0,4.5,4.4
+27,Maharashtra,2018,82.0,4.0,5.0
+27,Maharashtra,2019,83.0,3.2,4.5
+27,Maharashtra,2020,83.0,2.1,4.8
+27,Maharashtra,2021,85.2,1.8,4.6
+27,Maharashtra,2022,86.0,1.6,4.2
+28,Andhra Pradesh,2017,90.0,2.5,4.3
+28,Andhra Pradesh,2018,89.0,2.0,5.0
+28,Andhra Pradesh,2019,89.0,1.3,4.4
+28,Andhra Pradesh,2020,88.0,0.8,4.8
+28,Andhra Pradesh,2021,91.5,0.2,3.3
+28,Andhra Pradesh,2022,93.3,0.1,2.1
+29,Karnataka,2017,80.0,6.4,6.2
+29,Karnataka,2018,81.0,5.0,7.0
+29,Karnataka,2019,80.0,3.8,7.0
+29,Karnataka,2020,81.0,2.6,7.9
+29,Karnataka,2021,82.1,2.7,8.2
+29,Karnataka,2022,83.9,2.3,7.3
+30,Goa,2017,87.0,4.4,3.0
+30,Goa,2018,80.0,4.0,4.0
+30,Goa,2019,80.0,3.9,3.6
+30,Goa,2020,83.0,2.6,6.6
+30,Goa,2021,77.6,3.7,9.7
+30,Goa,2022,74.0,4.6,9.9
+31,Lakshadweep,2017,94.0,0.0,3.9
+31,Lakshadweep,2018,95.0,0.0,0.0
+31,Lakshadweep,2019,64.0,0.0,9.1
+31,Lakshadweep,2020,88.0,0.0,0.0
+31,Lakshadweep,2021,90.0,0.0,5.0
+31,Lakshadweep,2022,100.0,0.0,0.0
+32,Kerala,2017,88.0,2.8,4.0
+32,Kerala,2018,89.0,2.0,5.0
+32,Kerala,2019,83.0,1.9,7.2
+32,Kerala,2020,82.0,1.8,7.8
+32,Kerala,2021,80.8,2.1,7.9
+32,Kerala,2022,82.7,2.4,8.3
+33,Tamil Nadu,2017,82.0,5.5,4.8
+33,Tamil Nadu,2018,85.0,4.0,5.0
+33,Tamil Nadu,2019,84.0,3.1,5.7
+33,Tamil Nadu,2020,82.0,2.2,6.4
+33,Tamil Nadu,2021,83.1,2.6,6.6
+33,Tamil Nadu,2022,85.1,2.6,6.1
+34,Puducherry,2017,85.0,3.8,5.5
+34,Puducherry,2018,86.0,3.0,6.0
+34,Puducherry,2019,81.0,2.8,7.4
+34,Puducherry,2020,81.0,2.3,6.6
+34,Puducherry,2021,80.6,2.4,5.4
+34,Puducherry,2022,81.9,2.7,7.8
+35,Andaman and Nicobar Islands,2017,90.0,2.4,3.1
+35,Andaman and Nicobar Islands,2018,88.0,3.0,2.0
+35,Andaman and Nicobar Islands,2019,84.0,3.1,4.6
+35,Andaman and Nicobar Islands,2020,85.0,1.4,3.7
+35,Andaman and Nicobar Islands,2021,86.8,2.5,2.5
+35,Andaman and Nicobar Islands,2022,85.1,3.2,2.8
+36,Telangana,2017,84.0,3.2,4.0
+36,Telangana,2018,90.0,2.0,4.0
+36,Telangana,2019,88.0,1.0,3.9
+36,Telangana,2020,87.0,0.6,3.4
+36,Telangana,2021,90.6,0.7,3.1
+36,Telangana,2022,91.1,0.6,2.7
+37,Ladakh,2017,69.0,2.0,2.4
+37,Ladakh,2018,84.0,2.0,3.0
+37,Ladakh,2019,85.0,0.3,6.0
+37,Ladakh,2020,76.0,1.8,8.4
+37,Ladakh,2021,82.0,1.4,7.1
+37,Ladakh,2022,88.3,0.3,4.8
+38,The Dadra and Nagar Haveli and Daman and Diu,2017,85.1704168525,8.1591189096,3.3244374721
+38,The Dadra and Nagar Haveli and Daman and Diu,2018,85.4317858735,6.3068451054,3.3693154895
+38,The Dadra and Nagar Haveli and Daman and Diu,2019,91.0,2.8,2.8
+38,The Dadra and Nagar Haveli and Daman and Diu,2020,93.0,0.8,2.4
+38,The Dadra and Nagar Haveli and Daman and Diu,2021,92.1,0.3,4.3
+38,The Dadra and Nagar Haveli and Daman and Diu,2022,93.9,0.1,2.8
