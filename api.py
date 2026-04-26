@@ -17,13 +17,35 @@ OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 API_FILE = "api_links.txt"
 
+NAME_MAP = {
+    "1139": "TB_Notification",
+    "1188": "TB_PatientCharacteristics",
+    "1228": "TB_HIV_Coinfection",
+    "1240": "TB_TreatmentOutcome_Public",
+    "1241": "TB_TreatmentOutcome_Private",
+    "1251": "TB_Diabetes_Coinfection",
+    "1278": "TB_TreatmentOutcome_Total",
+    "1372": "TB_Tribal",
+    "7037": "RHS_Statewise",
+    "7035": "RHS_Districtwise",
+    "7292": "NSS75_ReasonsNotUsingGovtHospital",
+    "7298": "NSS75_OOP_Expenditure"
+}
 
 # ---------------------------------------------------------------------------
 # LOAD DATASETS FROM FILE
 # ---------------------------------------------------------------------------
 
+import re
+
+def extract_id(url: str):
+    match = re.search(r"I(\d+)_", url)
+    return match.group(1) if match else None
+
+
 def load_datasets(file_path: str):
     datasets = []
+
     with open(file_path, "r") as f:
         content = f.read()
 
@@ -31,20 +53,20 @@ def load_datasets(file_path: str):
 
     for i, block in enumerate(blocks):
         url = block.strip()
-
         if not url:
             continue
 
-        # remove pageno=1 so we can paginate
         base_url = url.replace("&pageno=1", "")
 
+        dataset_id = extract_id(url)
+        name = NAME_MAP.get(dataset_id, f"dataset_{i+1}")
+
         datasets.append({
-            "name": f"dataset_{i+1}",
+            "name": name,
             "url": base_url
         })
 
     return datasets
-
 
 # ---------------------------------------------------------------------------
 # HELPERS
