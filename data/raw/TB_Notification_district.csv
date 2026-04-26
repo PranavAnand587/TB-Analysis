@@ -1,4 +1,4 @@
-Country,StateName,StateCode,DistrictName,DistrictCode,Year,D1139_4,I1139_5_sum,I1139_5_avg,I1139_6_sum,I1139_6_avg,I1139_7_sum,I1139_7_avg,I1139_8_sum,I1139_8_avg,I1139_9_sum,I1139_9_avg,I1139_10_sum,I1139_10_avg
+Country,StateName,StateCode,DistrictName,DistrictCode,Year,D1139_4,Annual_target_sum,Annual_target_avg,Target_till_month_sum,Target_till_month_avg,Achievement_till_date_sum,Achievement_till_date_avg,Percentage_progress_till_date_sum,Percentage_progress_till_date_avg,Previous_year_achievement_till_date_sum,Previous_year_achievement_till_date_avg,Percentage_of_gain_or_loss_sum,Percentage_of_gain_or_loss_avg
 India,Jammu And Kashmir,1,Anantnag,1,"Calendar Year (Jan - Dec), 2017",Private,393.0,393.0,393.0,393.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 India,Jammu And Kashmir,1,Anantnag,1,"Calendar Year (Jan - Dec), 2017",Public,591.0,591.0,591.0,591.0,682.0,682.0,115.0,115.0,0.0,0.0,0.0,0.0
 India,Jammu And Kashmir,1,Anantnag,1,"Calendar Year (Jan - Dec), 2018",Private,656.0,656.0,656.0,656.0,114.0,114.0,17.0,17.0,0.0,0.0,0.0,0.0

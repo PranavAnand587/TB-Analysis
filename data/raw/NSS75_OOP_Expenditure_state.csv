@@ -1,4 +1,4 @@
-Country,StateName,StateCode,Year,TRU,D7298_3,D7298_4,I7298_5_sum,I7298_5_avg,I7298_6_sum,I7298_6_avg,I7298_7_sum,I7298_7_avg
+Country,StateName,StateCode,Year,TRU,D7298_3,D7298_4,Average_out_of_pocket_medical_expenditure_per_hospitalisation_case_for_treatment_during_stay_at_hospital_sum,Average_out_of_pocket_medical_expenditure_per_hospitalisation_case_for_treatment_during_stay_at_hospital_avg,Estimated_number_of_hospitalisation_cases_sum,Estimated_number_of_hospitalisation_cases_avg,Sample_number_of_hospitalisation_cases_sum,Sample_number_of_hospitalisation_cases_avg
 India,Jammu and Kashmir,1,"Agriculture Year (Jul - Jun), 2017",Rural,Female,Charitable/NGO/trust run,18919.0,18919.0,1712.1372509402,1712.1372509402,1009.8972718039,1009.8972718039
 India,Jammu and Kashmir,1,"Agriculture Year (Jul - Jun), 2017",Rural,Female,Govt./Public,4225.0,4225.0,1712.1372509402,1712.1372509402,1009.8972718039,1009.8972718039
 India,Jammu and Kashmir,1,"Agriculture Year (Jul - Jun), 2017",Rural,Female,Private,44710.0,44710.0,1712.1372509402,1712.1372509402,1009.8972718039,1009.8972718039
